@@ -6,3 +6,5 @@
 5. (Extra credit) Answer the questions in #4 for subproduct, issue-and sub-issue
 
 About the dataset: https://www.consumerfinance.gov/data-research/consumer-complaints/
+
+Data is available at the following location: https://drive.google.com/open?id=1QWWbZBHJVpzTyF9jsyzV2V4llbsj81hm
